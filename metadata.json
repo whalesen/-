@@ -1,0 +1,7 @@
+{
+  "name": "Skybound Zen - Hand-Tracking Healing Journey",
+  "description": "An interactive educational game for students that uses hand-tracking to control a 'Wisp of Light', focusing on movement coordination and emotional decompression with an aesthetic inspired by Sky: Children of the Light.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
